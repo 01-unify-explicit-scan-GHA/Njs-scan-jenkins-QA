@@ -83,7 +83,7 @@ njsscan: v0.1.9 | Ajin Abraham | opensecurity.in
 ╘═════════════╧═══════════════════════════════════════════════════════════════════════════════════════════════╛
 ```
 
-## nodejsscan SAST
+## nodejsscan SAST 
 
 **nodejsscan**, built on top of **njsscan** provides a full fledged vulnerability management user interface along with other nifty integrations.
 
